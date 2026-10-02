@@ -5,7 +5,7 @@
 Aplicativo desenvolvido em Flutter com integração de mapas.
 
 📱 Print
-![Print01](./assets/localhost_61443_(iPhone%2016).png)
+<img src='./assets/print1.png' width="300">
 
 🛠️ Tecnologias
 
